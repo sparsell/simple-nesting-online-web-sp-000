@@ -17,7 +17,7 @@ def hopper
      }
 grace_hopper = programmer_hash["grace_hopper"]
 
-puts grace_hopper
+return grace_hopper
 
 end
 
