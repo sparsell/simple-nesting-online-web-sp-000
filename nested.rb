@@ -15,7 +15,8 @@ def hopper
           :languages => ["C"]
         }
      }
-programmer_hash[:grace_hopper] = {:known_for}
+grace_hopper = programmer_hash[:grace_hopper][:known_for]
+instructors = flatiron_school[:instructors]
 
 end
 
