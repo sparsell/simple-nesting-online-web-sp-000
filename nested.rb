@@ -16,7 +16,7 @@ def hopper
         }
      }
 grace_hopper = programmer_hash[:grace_hopper][:known_for]
-instructors = flatiron_school[:instructors]
+
 
 end
 
